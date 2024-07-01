@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning python<br>⚡ Fun fact;I'm a programmer; I write code and bugs disappear (most of the time)
+🌱 I’m currently learning python<br>⚡ Fun fact;I'm a programmer ; I write code and bugs disappear (most of the time)
 
 
 ## 🌐 Socials:
