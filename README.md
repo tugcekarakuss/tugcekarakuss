@@ -8,7 +8,7 @@ Uğradığın için teşekkür ederim! 🌱
 <ul>
 <li>İletişime geçmek istersen buradayım   <a href="mailto:tugcekarakus0038@gmail.com">Mail</a> 📩</li>
 <li>LinkedIn’deyim, beklerim  <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼</li>
-<li> Portfolyo siteme de beklerim:   <a href="tugcekarakus.com">Portfolyom</a> 🖥️</li>
+<li> Merak edersen diye bıraktım şuraya:    <a href="tugcekarakus.com">Portfolyom</a> 🖥️</li>
 </ul>
 <hr>
 
