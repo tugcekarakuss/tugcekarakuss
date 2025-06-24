@@ -5,12 +5,12 @@ Ben front-end dünyasında yolculuğuna başlamış, öğrenmeye açık ve heves
 Uğradığın için teşekkür ederim! 🌱
 
 <h2 id="find-me">Buralardayım🌎: <br><img align="left" height="200" src="images/tugce-karakus-icon.png"></a></h2>
-<ul>
-  <br>
-<li>LinkedIn’deyim, beklerim  <a href="https://www.linkedin.com/in/tugceekarakus/">LinkedIn</a> 💼</li>
-<li>İletişime geçmek istersen buradayım   <a href="mailto:tugcekarakus0038@gmail.com">Mail</a> 📩</li>
-<li> Merak edersen diye bıraktım şuraya:<a href="tugcekarakus.com">Portfolyom</a> 🖥️</li>
-<li>Üretmeyi seviyorum, yazmayı da! Medium’da buluşalım: <a href="https://medium.com/@tugcekarakus">Medium</a>📚 </li><br><br>
-</ul>
+
+
+- 💼 **LinkedIn:** [linkedin.com/in/tugceekarakus](https://www.linkedin.com/in/tugceekarakus/)
+- 📩 **Mail:** [tugcekarakus0038@gmail.com](mailto:tugcekarakus0038@gmail.com)
+- 🎨 **Figma:** [figma.com/@tugcekarakus](https://www.figma.com/@tugcekarakus)
+- 📚 **Medium:** [medium.com/@tugcekarakus](https://medium.com/@tugcekarakus)
+- - 🖥️ **Portfolyom:** Yakında eklenecek! (hazırlık aşamasında) 
 <hr>
 
