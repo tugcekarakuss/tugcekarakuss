@@ -13,6 +13,6 @@ Thank you for stopping by! 🌱
 - 📩 **Mail:** [tugcekarakus0038@gmail.com](mailto:tugcekarakus0038@gmail.com)
 - 🎨 **Figma:** [figma.com/@tugcekarakus](https://www.figma.com/@tugcekarakus)
 - 📚 **Medium:** [medium.com/@tugcekarakus](https://medium.com/@tugcekarakus)
-- 🖥️ **Portfolyom:**  Coming soon! (in preparation)  
+- 🖥️ **Portfolio:**  Coming soon! (in preparation)  
 <hr>
 
