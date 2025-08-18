@@ -6,7 +6,7 @@ On this GitHub account, I share the projects I work on and the things I learn to
 Making a little progress each day, learning new technologies, and sharing this journey is something I truly enjoy.<br><br>
 Thank you for stopping by! 🌱
 
-<h2 id="find-me">Buralardayım🌎: <br><img align="left" height="200" src="images/tugce-karakus-icon.png"></a></h2>
+<h2 id="find-me">Find Me Around🌎: <br><img align="left" height="200" src="images/tugce-karakus-icon.png"></a></h2>
 
 
 - 💼 **LinkedIn:** [linkedin.com/in/tugceekarakus](https://www.linkedin.com/in/tugceekarakus/)
