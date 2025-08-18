@@ -1,8 +1,10 @@
-<h1 id="hi-im-tugce-">Merhaba, Ben Tuğçe👋🏻 👩🏻‍💻</h1>
+<h1 align="center" >Hi, I'm Tuğçe👋🏻 👩🏻‍💻</h1>
 <img src="images/tugce-karakus-banner.png" alt="banner that says Tuğçe KArakuş -  jr. frontend developer">
-Merhaba!<br>
-Ben front-end dünyasında yolculuğuna başlamış, öğrenmeye açık ve hevesli bir geliştiriciyim. Bu GitHub hesabında, kendimi geliştirmek için üzerinde çalıştığım projeleri ve öğrendiğim şeyleri paylaşıyorum. Her gün biraz daha ilerlemek, yeni teknolojiler öğrenmek ve bu süreci paylaşmak benim için çok keyifli.<br>
-Uğradığın için teşekkür ederim! 🌱
+<br>
+I am a jr. frontend developer on a journey, eager to learn and full of enthusiasm.  
+On this GitHub account, I share the projects I work on and the things I learn to grow my skills.  
+Making a little progress each day, learning new technologies, and sharing this journey is something I truly enjoy.<br><br>
+Thank you for stopping by! 🌱
 
 <h2 id="find-me">Buralardayım🌎: <br><img align="left" height="200" src="images/tugce-karakus-icon.png"></a></h2>
 
@@ -11,6 +13,6 @@ Uğradığın için teşekkür ederim! 🌱
 - 📩 **Mail:** [tugcekarakus0038@gmail.com](mailto:tugcekarakus0038@gmail.com)
 - 🎨 **Figma:** [figma.com/@tugcekarakus](https://www.figma.com/@tugcekarakus)
 - 📚 **Medium:** [medium.com/@tugcekarakus](https://medium.com/@tugcekarakus)
-- - 🖥️ **Portfolyom:** Yakında eklenecek! (hazırlık aşamasında) 
+- 🖥️ **Portfolyom:**  Coming soon! (in preparation)  
 <hr>
 
