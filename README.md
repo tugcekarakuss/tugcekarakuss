@@ -1,7 +1,7 @@
 <h1 align="center" >Hi, I'm Tuğçe👋🏻 👩🏻‍💻</h1>
 <img src="images/tugce-karakus-banner.png" alt="banner that says Tuğçe KArakuş -  jr. frontend developer">
 <br>
-I am a jr. frontend developer on a journey, eager to learn and full of enthusiasm.  
+I am a frontend developer on a journey, eager to learn and full of enthusiasm.  
 On this GitHub account, I share the projects I work on and the things I learn to grow my skills.  
 Making a little progress each day, learning new technologies, and sharing this journey is something I truly enjoy.<br><br>
 Thank you for stopping by! 🌱
