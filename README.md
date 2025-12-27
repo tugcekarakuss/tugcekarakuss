@@ -9,11 +9,13 @@ Thank you for stopping by! 🌱
 <h2 id="find-me">Find Me Around🌎: <br><img align="left" height="200" src="images/tugce-karakus-icon.png"></a></h2>
 
 
-- 💼 **LinkedIn:** [linkedin.com/in/tugceekarakus](https://www.linkedin.com/in/tugceekarakus/)
 - 📩 **Mail:** [tugcekarakus0038@gmail.com](mailto:tugcekarakus0038@gmail.com)
+- 💼 **LinkedIn:** [linkedin.com/in/tugceekarakus](https://www.linkedin.com/in/tugceekarakus/)
+- 🐦 **Twitter:** [twitter.com/yourusername](https://twitter.com/yourusername)
 - 🎨 **Figma:** [figma.com/@tugcekarakus](https://www.figma.com/@tugcekarakus)
 - 🧩 **Frontend Mentor:** [frontendmentor.io/profile/tugcekarakuss](https://www.frontendmentor.io/profile/tugcekarakuss)
-- 🖥️ **Portfolio:**  [tugcekarakus.vercel.app](https://tugcekarakus.vercel.app/)  
+- 🖥️ **Portfolio:** [tugcekarakus.vercel.app](https://tugcekarakus.vercel.app/)
+
 
 <hr>
 
