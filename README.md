@@ -11,7 +11,7 @@ Thank you for stopping by! 🌱
 
 - 📩 **Mail:** [tugcekarakus0038@gmail.com](mailto:tugcekarakus0038@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/tugceekarakus](https://www.linkedin.com/in/tugceekarakus/)
-- 🐦 **Twitter:** [twitter.com/yourusername](https://twitter.com/yourusername)
+- 🐦 **Twitter:** [twitter.com/yourusername](https://twitter.com/Tuvcirella)
 - 🎨 **Figma:** [figma.com/@tugcekarakus](https://www.figma.com/@tugcekarakus)
 - 🧩 **Frontend Mentor:** [frontendmentor.io/profile/tugcekarakuss](https://www.frontendmentor.io/profile/tugcekarakuss)
 - 🖥️ **Portfolio:** [tugcekarakus.vercel.app](https://tugcekarakus.vercel.app/)
