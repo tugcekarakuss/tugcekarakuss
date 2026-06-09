@@ -27,7 +27,7 @@ Thank you for stopping by! 🌱
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" alt="js" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" title=""React alt="react" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" title="React" alt="react" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" title="Tailwind" alt="tailwind"/>
   <img width="12" />
