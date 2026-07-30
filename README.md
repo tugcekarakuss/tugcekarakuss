@@ -1,14 +1,14 @@
 <h1 align="center">Hey, I'm Tugce Karakus 👩🏻‍💻</h1>
 
 
-<img src="images/tugce-karakus-banner-1.png" alt="banner"><br>
+<img src="images/tugce-karakus-banner.png" alt="banner"><br>
 
 
 I’m a frontend developer who genuinely enjoys building things and getting better with each project.
 
 This space is where I share what I create, what I learn, and how I grow along the way.
 
-Thanks for stopping by — I’m glad you’re here.🌱
+Thanks for stopping by I’m glad you’re here.🌱
 
 <br>
 
@@ -42,18 +42,14 @@ Thanks for stopping by — I’m glad you’re here.🌱
 
 
 
-<h2 id="find-me">Find Me Around: <br></h2>
+<h2 id="find-me">Find Me Around: <br><img align="left" height="190" src="images/tugce-karakus-icon.png"></a></h2>
 
-<div align="left" style="display: flex; gap: 15px; align-items: flex-start;">
-  <img height="150" src="images/tugce-karakus-icon-1.png"/>
 
-  <div>
-    - 📩 <b>Mail:</b> tugcekarakus0038@gmail.com <br>
-    - 🖥️ <b>Portfolio:</b> tugcekarakus.vercel.app <br>
-    - 💼 <b>LinkedIn:</b> linkedin.com/in/tugceekarakus <br>
-    - 🎨 <b>Figma:</b> figma.com/@tugcekarakus <br>
-    - 🧩 <b>Frontend Mentor:</b> frontendmentor.io/profile/tugcekarakuss
-  </div>
-</div>
+- 📩 **Mail:** [tugcekarakus0038@gmail.com](mailto:tugcekarakus0038@gmail.com)
+- 🖥️ **Portfolio:** [tugcekarakus.vercel.app](https://tugcekarakus.vercel.app/)
+- 💼 **LinkedIn:** [linkedin.com/in/tugceekarakus](https://www.linkedin.com/in/tugceekarakus/)
+- 🎨 **Figma:** [figma.com/@tugcekarakus](https://www.figma.com/@tugcekarakus)
+- 🧩 **Frontend Mentor:** [frontendmentor.io/profile/tugcekarakuss](https://www.frontendmentor.io/profile/tugcekarakuss)<br><br>
+  
 
 <hr>
