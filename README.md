@@ -42,7 +42,7 @@ Thanks for stopping by I’m glad you’re here.🌱
 
 
 
-<h2 id="find-me">Find Me Around: <br><img align="left" height="190" src="images/tugce-karakus-icon.png"></a></h2>
+<h2 id="find-me">Find Me Around: <br><img align="left" height="190" src="images/github-mascot.gif"></a></h2>
 
 
 - 📩 **Mail:** [tugcekarakus0038@gmail.com](mailto:tugcekarakus0038@gmail.com)
