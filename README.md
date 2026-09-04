@@ -27,7 +27,13 @@ I enjoy turning designs into functional interfaces, exploring better ways to str
 <h3>Tools</h3>
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vite,figma" height="40" title="Git, GitHub, Vite, Figma" alt="Git, GitHub, Vite, Figma" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" alt="Git" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" alt="GitHub" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" title="Vite" alt="Vite" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" title="Figma" alt="Figma" />
 </div>
 
 <br>
@@ -42,7 +48,7 @@ I enjoy turning designs into functional interfaces, exploring better ways to str
 
 <h2>Connect With Me</h2>
 
-<img align="left" height="190" src="images/github-mascot.gif" alt="GitHub mascot">
+<img align="left" height="160" src="images/github-mascot.gif" alt="GitHub mascot">
 
 - 📩 <strong>Email:</strong> [tugcekarakus0038@gmail.com](mailto:tugcekarakus0038@gmail.com)
 - 🖥️ <strong>Portfolio:</strong> [tugcekarakus.vercel.app](https://tugcekarakus.vercel.app/)
