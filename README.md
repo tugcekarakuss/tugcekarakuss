@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Tugce Karakus 👩🏻‍💻</h1>
 
-<img src="images/tugce-karakus-banner.png" alt="Tugce Karakus - Junior Frontend Developer"><br>
+<img src="images/github-banner-1.png" alt="Tugce Karakus - Junior Frontend Developer"><br>
 
 I’m a junior frontend developer focused on building responsive, accessible, and user-friendly web experiences with React and modern frontend technologies.
 
@@ -40,7 +40,7 @@ I enjoy turning designs into functional interfaces, exploring better ways to str
 
 <h2>What I'm Working On</h2>
 
-- <strong>OpenFashion:</strong>  Building a responsive eCommerce application with React and Tailwind CSS.
+- <strong>OpenFashion:</strong> Building a responsive eCommerce application with React and Tailwind CSS.
 - <strong>CineVault:</strong> Developing a movie discovery application with React.
 - Exploring scalable component architecture, state management, and reusable UI patterns.
 
@@ -48,14 +48,14 @@ I enjoy turning designs into functional interfaces, exploring better ways to str
 
 <h2>Connect With Me</h2>
 
-<img align="left" height="160" src="images/github-mascot.gif" alt="GitHub mascot">
+<img align="left" hspace="15" height="150" src="images/links-me.gif" alt="GitHub mascot"> 
 
-- 📩 <strong>Email:</strong> [tugcekarakus0038@gmail.com](mailto:tugcekarakus0038@gmail.com)
 - 🖥️ <strong>Portfolio:</strong> [tugcekarakus.vercel.app](https://tugcekarakus.vercel.app/)
-- 💼 <strong>LinkedIn:</strong> [linkedin.com/in/tugceekarakus](https://www.linkedin.com/in/tugceekarakus/)
-- 🧩 <strong>Frontend Mentor:</strong> [frontendmentor.io/profile/tugcekarakuss](https://www.frontendmentor.io/profile/tugcekarakuss)
-- 🎨 <strong>Figma:</strong> [figma.com/@tugcekarakus](https://www.figma.com/@tugcekarakus)
+- 📩 <strong>Email:</strong> [tugcekarakus0038@gmail.com](mailto:tugcekarakus0038@gmail.com)
+- 💼 <strong>LinkedIn:</strong> [LinkedIn Profile](https://www.linkedin.com/in/tugceekarakus/)
+- 🎨 <strong>Figma:</strong> [Figma Profile](https://www.figma.com/@tugcekarakus)
+- 🧩 <strong>Frontend Mentor:</strong> [Frontend Mentor Profile](https://www.frontendmentor.io/profile/tugceekarakuss)
 
-<br><br>
+<br clear="left">
 
 <hr>
