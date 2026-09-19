@@ -12,29 +12,22 @@ I enjoy turning designs into functional interfaces, exploring better ways to str
 
 <h3>Frontend</h3>
 
-<div align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=html" height="40" title="HTML" alt="HTML" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" title="CSS" alt="CSS" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" title="JavaScript" alt="JavaScript" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="40" title="React" alt="React" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="40" title="Tailwind CSS" alt="Tailwind CSS" />
-</div>
+</p>
 
 <h3>Tools</h3>
 
-<div align="left">
+<p>
   <img src="https://skillicons.dev/icons?i=git" height="40" title="Git" alt="Git" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=github" height="40" title="GitHub" alt="GitHub" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=vite" height="40" title="Vite" alt="Vite" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=figma" height="40" title="Figma" alt="Figma" />
-</div>
+</p>
 
 <br>
 
@@ -48,7 +41,7 @@ I enjoy turning designs into functional interfaces, exploring better ways to str
 
 <h2>Connect With Me</h2>
 
-<img align="left" hspace="15" height="150" src="images/links-me.gif" alt="GitHub mascot"> 
+<img align="left" width="160" height="160" src="images/links-me.gif" alt="GitHub mascot"> 
 
 - 🖥️ <strong>Portfolio:</strong> [tugcekarakus.vercel.app](https://tugcekarakus.vercel.app/)
 - 📩 <strong>Email:</strong> [tugcekarakus0038@gmail.com](mailto:tugcekarakus0038@gmail.com)
