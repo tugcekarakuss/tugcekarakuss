@@ -1,6 +1,6 @@
 <h1 align="center">Hey, I'm Tugce Karakus 👩🏻‍💻</h1>
 
-<img src="images/github-banner-1.png" alt="Tugce Karakus - Junior Frontend Developer"><br>
+<img src="images/banner.gif" alt="Tugce Karakus - Junior Frontend Developer"><br>
 
 I’m a junior frontend developer focused on building responsive, accessible, and user-friendly web experiences with React and modern frontend technologies.
 
